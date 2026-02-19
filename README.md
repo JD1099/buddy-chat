@@ -6,4 +6,4 @@
 ### 1) Transport (Packet stuff + SSL encryption)
 ### 2) Session (Application itself)
 ### 3) Presentation (Codebase)
-### 4) Application (User interaction)
+### 4) Application (User interaction (input stream based notepad feature))
