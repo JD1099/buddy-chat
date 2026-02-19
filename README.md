@@ -1,7 +1,7 @@
-# Buddy chat
-A chat app for criminals :)
+# Buddy chat - a chat app for criminals :)
+<br />
 
-## TO DO LIST
+### TO DO LIST
 
 ### 1) Transport (Packet stuff)
 ### 2) Session (Application itself)
