@@ -1,4 +1,6 @@
-# buddy-chat
-Lets learn how to build a messaging platform.
+# TO DO LIST
 
-womp womp
+### 1) Transport (packet stuff)
+### 2) Session (Application itself)
+### 3) Presentation (Codebase)
+### 4) Application (User interaction)
