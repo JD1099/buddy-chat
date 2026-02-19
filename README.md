@@ -1,4 +1,7 @@
-# TO DO LIST
+# Buddy chat
+A chat app for criminals :)
+
+## TO DO LIST
 
 ### 1) Transport (Packet stuff)
 ### 2) Session (Application itself)
