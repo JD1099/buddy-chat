@@ -1,4 +1,4 @@
-# Buddy chat - a chat app for criminals :)
+# Buddy chat - a chat app, fully relient on GPG
 <br />
 
 ### TO DO LIST
